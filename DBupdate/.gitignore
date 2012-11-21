@@ -1,0 +1,6 @@
+# Ignore all logfiles and tempfiles.
+.DS_Store
+/logs
+/txt
+/updateData
+/updateDim
